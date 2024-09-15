@@ -41,7 +41,7 @@ FICHEROS USADOS CON LOS SCRIPTS:
     2 5 10 10 (desde consola)       ==>     GeneraDatosAPredecir.py 2 5 10 10           ==>	    datosAPredecir.txt
 
     ficheroRedNeuronal  |
-           + 			|           ==>     EjecutaIA_Con_Distancia_Euclidea.py	        ==>     SalidaEjecutaIA.txt	 (previsión de tiempos de los semáforos)
+           +            |           ==>     EjecutaIA_Con_Distancia_Euclidea.py	        ==>     SalidaEjecutaIA.txt	 (previsión de tiempos de los semáforos)
     datosAPredecir.txt	|		
 
 
